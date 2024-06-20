@@ -98,7 +98,7 @@ export const projects = [
     des: "My first portfolio, built with React, Tailwind CSS, and Framer Motion. You can find more projects here.",
     img: "/elisite.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://elibhporfolio.netlify.app",
+    link: "https://elibhportfolio.netlify.app/",
   },
   {
     id: 4,
@@ -211,11 +211,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/Eli-BH"
+    link: "https://github.com/Eli-BH",
   },
   {
     id: 3,
     img: "/link.svg",
-    link:"https://www.linkedin.com/in/elijah-brown-henderson-983768144"
+    link: "https://www.linkedin.com/in/elijah-brown-henderson-983768144",
   },
 ];
